@@ -71,3 +71,5 @@ User-friendly
 Ready for demo or submission
 
 ###### Screenshot
+https://github.com/Akshansh-code148/MovieBot/blob/main/CLI%20Menu.png
+https://github.com/Akshansh-code148/MovieBot/blob/main/Working%20Example.png
