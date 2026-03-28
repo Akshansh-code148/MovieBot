@@ -1,10 +1,10 @@
-# /### Moviebot
+# Moviebot
 
-###### Overview
+## Overview
 
 The provided Python script, Movies.py, defines a command-line interface (CLI) chatbot called BollywoodMotivationBot. Its primary purpose is to recommend motivational Bollywood movies (mostly post-2017) based on specific themes or keywords provided by the user.
 
-###### Features
+## Features
 
 Categorized movies:
 
@@ -32,7 +32,7 @@ Randomized recommendations for variety
 
 Interactive command-line chatbot
 
-###### Technologies Used
+## Technologies Used
 
 Python 3
 
@@ -46,7 +46,7 @@ Built-in libraries:
 
 	typing
 
-###### Installation and Running the Project
+## Installation and Running the Project
 
 
 Make sure Python is installed (Python 3+ recommended)
@@ -62,7 +62,7 @@ Start chatting:
 Exit anytime by typing:
 	exit / quit / bye / thanks
 
-###### Instructions for Testing
+## Instructions for Testing
 
 Functionally correct
 
@@ -70,7 +70,7 @@ User-friendly
 
 Ready for demo or submission
 
-###### Screenshot
+## Screenshot
 https://github.com/Akshansh-code148/MovieBot/blob/main/CLI%20Menu.png
 
 https://github.com/Akshansh-code148/MovieBot/blob/main/Working%20Example.png
